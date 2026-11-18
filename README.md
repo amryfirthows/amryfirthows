@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="Amry Firthows Tech Portfolio Banner" src="https://github.com/user-attachments/assets/26f35384-8240-4289-a964-e88589247c70" />
 <div align="center">
 
 <p><strong>AMRY FIRTHOWS</strong> &nbsp;|&nbsp; COMPUTING HND GRADUATE &nbsp;|&nbsp; SOFTWARE DEVELOPMENT &nbsp;|&nbsp; AI & ML &nbsp;|&nbsp; CYBERSECURITY</p>
